@@ -89,7 +89,7 @@ def fetch_trivia():
 # API functions
 def fetch_news():
     try:
-        response = requests.get("https://newsapi.org/v2/top-headlines?country=us&apiKey=0ce0ea100487490b8221e0734c93fe4a")
+        response = requests.get("https://newsapi.org/v2/top-headlines?country=us&apiKey=0ce0ea100487490b8221e0734c93fe4a") # REPLACE WITH YOUR OWN API KEY from newsapi
         if response.status_code == 200:
             news = response.json()
             articles = news['articles']
