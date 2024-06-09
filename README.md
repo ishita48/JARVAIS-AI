@@ -8,8 +8,8 @@ With Jarvis, you can effortlessly communicate using both **voice and text inputs
 
 - **Speech Recognition**: Communicate with Jarvis effortlessly using voice commands.
 - **Text-to-Speech Conversion**: Enjoy natural and clear responses from Jarvis through synthesized speech.
-- **API Integration**: Access a wide range of functionalities including fetching jokes, news, trivia, facts, COVID-19 statistics, currency conversions, Chuck Norris jokes, and more.
-- **OpenAI GPT-3 Integration**: Leverage the cutting-edge GPT-3 model for generating contextually relevant responses.
+- **API Integration**: Access a wide range of functionalities including fetching jokes, news (make sure to use your own API key from news API), trivia, facts, COVID-19 statistics, currency conversions, Chuck Norris jokes, and more.
+- **OpenAI GPT-3 Integration**: Leverage the cutting-edge GPT-3 model for generating contextually relevant responses. (Use your own API key)
 - **Graphical User Interface (GUI)**: Engage with Jarvis using an intuitive and user-friendly graphical interface.
 
 ## Requirements
