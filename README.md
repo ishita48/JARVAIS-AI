@@ -4,8 +4,6 @@ Welcome to the Jarvis Project, your intelligent virtual assistant designed to st
 
 With Jarvis, you can effortlessly communicate using both **voice and text inputs**, making interactions natural and seamless. Whether you need assistance with tasks, want to stay informed with the latest news, or simply looking for some entertainment, Jarvis has you covered.
 
-![Jarvis Project](https://example.com/jarvis_project_image.png)
-
 ## Features
 
 - **Speech Recognition**: Communicate with Jarvis effortlessly using voice commands.
